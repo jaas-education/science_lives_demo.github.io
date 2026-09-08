@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>ニュース | Science Lives</title>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <header class="site-header">
+            <a class="brand" href="index.html">Science <span>Lives</span></a>
+            <nav class="nav-tabs">
+                <a href="about.html">About</a>
+                <a href="howto.html">遊び方</a>
+                <a href="news.html">ニュース</a>
+                <!--
+                <a href="donation.html">寄付</a>
+                -->
+                <a href="episode.html">エピソード投稿</a>
+                <a class="nav-game-start" href="game.html">ゲームスタート</a>
+            </nav>
+        </header>
+        <main class="content-shell">
+            <h1 class="section-title" data-page-title></h1>
+            <div data-page-content></div>
+        </main>
+        <footer class="site-footer">© Science Lives, JAAS教育対話促進プロジェクト</footer>
+        <script src="js/common.js"></script>
+        <script>document.addEventListener('DOMContentLoaded',()=>renderStaticPage('news'));</script>
+    </body>
+</html>

@@ -1,0 +1,96 @@
+{
+  "difficulties": [
+    {
+      "id": "1",
+      "name": "研究者の卵",
+      "description": "まずはここから",
+      "certificate": {
+        "title": "研究者の卵 認定証",
+        "message": "Science Lives「研究者の卵」を全問正解しました。\n好奇心の芽を大切に、次の問いへ進みましょう。"
+      }
+    },
+    {
+      "id": "2",
+      "name": "研究ビギナー",
+      "description": "ちょっと分かり始めた君へ",
+      "certificate": {
+        "title": "研究ビギナー 認定証",
+        "message": "Science Lives「研究ビギナー」を全問正解しました。\n研究の世界を読み解く力が着実に育っています。"
+      }
+    },
+    {
+      "id": "3",
+      "name": "研究玄人",
+      "description": "研究の世界に浸かってきた",
+      "certificate": {
+        "title": "研究玄人 認定証",
+        "message": "Science Lives「研究玄人」を全問正解しました。\n研究生活への深い理解と洞察をここに称えます。"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Extra",
+      "description": "もはや私はプロ",
+      "certificate": {
+        "title": "Science Lives Extra 認定証",
+        "message": "Science Lives 最高難度「Extra」を全問正解しました。\n卓越した研究知識と探究心をここに称えます。"
+      }
+    }
+  ],
+  "genres": [
+    {
+      "id": "あるある",
+      "name": "あるある",
+      "description": "経験あると共感できるやつ",
+      "certificate": {
+        "title": "研究あるある マスター認定証",
+        "message": "Science Lives「あるある」を全問正解しました。\n研究現場の空気を見事に読み切りました。"
+      }
+    },
+    {
+      "id": "ライフステージ",
+      "name": "ライフステージ",
+      "description": "研究者も生きている",
+      "certificate": {
+        "title": "ライフステージ マスター認定証",
+        "message": "Science Lives「ライフステージ」を全問正解しました。\n研究者の多様な生き方への理解を称えます。"
+      }
+    },
+    {
+      "id": "マニアック",
+      "name": "マニアック",
+      "description": "レアだったり濃かったり",
+      "certificate": {
+        "title": "研究マニアック マスター認定証",
+        "message": "Science Lives「マニアック」を全問正解しました。\n細部まで知る探究心をここに称えます。"
+      }
+    },
+    {
+      "id": "シチズンサイエンス",
+      "name": "シチズンサイエンス",
+      "description": "市民も科学に参加しよう",
+      "certificate": {
+        "title": "シチズンサイエンス マスター認定証",
+        "message": "Science Lives「シチズンサイエンス」を全問正解しました。\n市民と科学をつなぐ知識と探究心をここに称えます。"
+      }
+    },
+    {
+      "id": "サイエンスコミュニケーション",
+      "name": "サイエンス\nコミュニケーション",
+      "description": "みんなを繋ぐ",
+      "certificate": {
+        "title": "サイエンスコミュニケーション マスター認定証",
+        "message": "Science Lives「サイエンスコミュニケーション」を全問正解しました。\n科学を伝え、ともに考え、社会とつなぐ力をここに称えます。"
+      }
+    },
+    {
+      "id": "研究支援",
+      "name": "研究支援",
+      "description": "脇役はいない",
+      "certificate": {
+        "title": "研究支援 マスター認定証",
+        "message": "Science Lives「研究支援」を全問正解しました。\n研究をともにつくり、支える多様な人々への理解をここに称えます。"
+      }
+    }
+  ]
+}
